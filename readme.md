@@ -1,1 +1,1 @@
-Bachelors of engineering in 
+Bachelors of engineering in CSE
